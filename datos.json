@@ -3,7 +3,7 @@
         "nombre": "Fruba",
         "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
         "soporte": "producto",
-        "abstract": "Producto que busca concientizar sobre la alimentación sana en niños por medio de snaks lúdicos",
+        "abstract": "Producto que busca concientizar sobre la alimentacion sana en niños por medio de snaks ludicos",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
@@ -14,10 +14,10 @@
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Nébula",
+        "nombre": "Nebula",
         "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
         "soporte": "industrial",
-        "abstract": "Producto que busca amenizar la espera de niños en áreas medicas",
+        "abstract": "Producto que busca amenizar la espera de niños en areas medicas",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
@@ -35,17 +35,17 @@
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Publicación experiemntal",
+        "nombre": "Publicacion experiemntal",
         "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
         "soporte": "editorial",
-        "abstract": "A partir del concepto liquido se desarrolla una publicación que llame a senti y experimentar la lectura ligada al concepto",
+        "abstract": "A partir del concepto liquido se desarrolla una publicacion que llame a sentir y experimentar la lectura ligada al concepto",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
         "nombre": "Reflecta",
         "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
         "soporte": "industrial",
-        "abstract": "Lámpara construida a lartir de tres materiales",
+        "abstract": "Lampara construida a lartir de tres materiales",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
